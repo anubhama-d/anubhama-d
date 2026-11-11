@@ -15,19 +15,51 @@ I explore the intersection of **art direction, generative AI and creative techno
 - Advertising, Fashion, Beauty & Luxury
 - Creative Research & Experimentation
 
-### 🛠️ Creative Toolkit
+### 🧭 Creative Capabilities
 
-- **AI:** ChatGPT, Midjourney, Runway, Stable Diffusion, ComfyUI, Gemini
-- **Creative Production:** Adobe Photoshop, After Effects, Premiere Pro
-- **Design & Collaboration:** Figma, Canva, Procreate
+- **Direction:** AI art direction and visual storytelling, from concept to finished campaign
+- **Image & Video:** image and video generation, AI filmmaking
+- **Characters:** digital characters and AI avatars
+- **Sound:** audio production, including voice, music and lip sync
+- **Craft:** prompt engineering and post-production
 
-### 🚀 What I'm Exploring
+### 🔁 Scalable & Repeatable Creative Workflows
 
-- AI-native creative production
-- Generative AI workflows for advertising
-- AI-powered visual storytelling
-- Creative technology and emerging AI tools
-- Collaboration between creative and technical teams
+I build AI production systems designed to be reused, not one-off experiments.
+
+- **Structured generative AI pipelines** that take a brief from concept through to final assets
+- **Multi-tool workflow integration**, connecting image, video, audio and post-production tools into one process
+- **Character and product consistency** across images, video and campaign formats
+- **Campaign content variations** produced efficiently across formats and channels
+- **Creative quality control** at every stage, so the output stays on brief and on brand
+
+### 🤖 AI & Creative Technology
+
+**AI Image Generation**<br>
+Midjourney · Nano Banana · GPT Image · Stable Diffusion
+
+**AI Video & Cinematic Production**<br>
+Google Veo · Kling · Higgsfield · Runway
+
+**AI Workflow & Orchestration**<br>
+Weavy · ComfyUI
+
+**AI Voice, Audio & Lip Sync**<br>
+ElevenLabs · AI voice generation · AI music · Lip sync
+
+**AI Avatars & Digital Characters**<br>
+Digital characters and avatar creation for campaigns and storytelling
+
+**Creative Software**<br>
+Photoshop · After Effects · Premiere Pro · Procreate · Figma
+
+### 🚀 Currently Exploring
+
+- AI-native creative production, from concept to final delivery
+- Orchestrating multiple AI tools into end-to-end production pipelines
+- Consistent characters and products across AI-generated campaigns
+- Cinematic AI filmmaking and storytelling
+- Closer collaboration between creative and technical teams
 
 ### 🌐 Find Me
 
